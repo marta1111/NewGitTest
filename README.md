@@ -1,1 +1,2 @@
 # NewGitTest
+is a repository
